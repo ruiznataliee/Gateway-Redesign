@@ -1,0 +1,27 @@
+* {
+  Background-color: lavender;
+  color: darkgreen;
+}
+
+H1 {
+  color: black;
+}
+
+H2 {
+  color: darkslateblue;
+  text-align: center;
+}
+
+a {
+  padding: 15px;
+  color: black;
+}
+
+
+nav {
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+
+
+}

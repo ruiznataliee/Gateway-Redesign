@@ -1,0 +1,42 @@
+* {
+  text-align: center;
+}
+
+H1 {
+  text-align: center;
+  color: white;
+
+}
+
+body {
+
+  color: black;
+  font-size: 30px;
+
+}
+
+a {
+  text-align: center;
+  padding: 10px;
+  color: white;
+  font-size: 25px;
+}
+
+nav {
+  Background-image: url(night.jpeg);
+  alt: "philly at night";
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 30px;
+
+}
+
+footer {
+  color: darkblue;
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 40px;
+
+}
